@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 def load_model():
     """Load the Mistral-7B model and tokenizer."""
-    token = "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"  
+    token = "put-your-token-here"  
     tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", token=token)
     model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", token=token)
     return tokenizer, model
