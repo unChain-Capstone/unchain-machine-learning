@@ -6,6 +6,10 @@ UnChain is an innovative platform designed to help users manage sugar addiction 
 
 - **Personalized Recommendations:** AI-driven insights based on user behavior and preferences.
 
+## Dataset
+We use dataset from Kaggle
+- MyFitnessPal Dataset bit.ly/MyFitnessPalDataset
+- Food Nutrition Dataset bit.ly/FoodNutritionDataset
 ## Installation
 
 To get started with the project, follow these steps:
