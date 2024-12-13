@@ -5,7 +5,7 @@ UnChain is an innovative platform designed to help users manage sugar addiction 
 ## Features
 
 - **Personalized Recommendations:** AI-driven insights based on user behavior and preferences.
-- - **User Behavior Classification:** Machine learning models that classify and analyze user behavior patterns to tailor recommendations effectively.
+- **User Behavior Classification:** Machine learning models that classify and analyze user behavior patterns to tailor recommendations effectively.
 
 ## Dataset
 We use dataset from Kaggle
